@@ -1,0 +1,443 @@
+[
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lokaler-computer-experte",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lokaler-computer-experte",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lokaler Computer-Experte …",
+    "text": "Lokaler Computer-Experte …\n\n\n\n\n\n\n\n\n\n\n\n\n\nKein echtes UML!\n\nQuelle: xkcd.com/627/"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#uml-diagramm-übersicht",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#uml-diagramm-übersicht",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "UML Diagramm-Übersicht",
+    "text": "UML Diagramm-Übersicht\n\nQuelle: esb-dev.github.io"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#ein-echtes-aktivitätsdiagramm",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#ein-echtes-aktivitätsdiagramm",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Ein “echtes” Aktivitätsdiagramm",
+    "text": "Ein “echtes” Aktivitätsdiagramm\n\n\n\n\n\n\n\n\n\n\n\n\n\nbildet die von einem System ausgeführten Aktivitäten ab\nzählt zu den Verhaltensdiagrammen in der UML\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStartknoten\nAktion\nKonnektor\nEndknoten"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Bibliothek",
+    "text": "Aufgabe: Bibliothek\n\nStellen Sie sich vor, Sie besuchen die Bibliothek, um ein Buch auszuleihen.\nErstellen Sie ein Aktivitätsdiagramm, das den gesamten Ablauf Ihres Besuchs in der Bibliothek beschreibt.\n\nSie betreten die Bibliothek.\nSie gehen zur Buchabteilung und suchen ein Buch.\nSie prüfen, ob das Buch ausleihbar ist.\nSie verlassen die Bibliothek.\n\nErstellen Sie das Aktivitäts-Diagramm mit draw.io. Speichern Sie es so, dass Sie es in der Folge weiter nutzen und verändern können."
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Bibliothek",
+    "text": "Lösung: Bibliothek"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aktivitätsdiagramm-verzweigung",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aktivitätsdiagramm-verzweigung",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aktivitätsdiagramm: Verzweigung",
+    "text": "Aktivitätsdiagramm: Verzweigung"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-verzweigung",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-verzweigung",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Bibliothek, Verzweigung",
+    "text": "Aufgabe: Bibliothek, Verzweigung\n\nSie besuchen die Bibliothek, um ein Buch auszuleihen.\nErstellen Sie ein Aktivitätsdiagramm mit Verzweigung.\n\nSie betreten die Bibliothek.\nSie suchen und finden ein Buch.\nSie prüfen, ob es ausleihbar ist.\nWenn ja (Buch ausleihbar):\n\nSie gehen zur Ausleihtheke.\nSie leihen das Buch aus.\nSie verlassen die Bibliothek.\n\nWenn nein (Buch nicht ausleihbar):\n\nPrüfen, ob Sie noch ein anderes Buch suchen\nFalls ja:\n\nBuch suchen\n\nFalls nein:\n\nSie verlassen die Bibliothek."
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-verzweigung",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-verzweigung",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Bibliothek, Verzweigung",
+    "text": "Lösung: Bibliothek, Verzweigung"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-parallel",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-parallel",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Bibliothek, parallel",
+    "text": "Aufgabe: Bibliothek, parallel\n\n\nWie zuletzt\nSie besuchen die Bibliothek, um ein Buch auszuleihen.\n\nSie betreten die Bibliothek.\nSie suchen und finden ein Buch.\nSie prüfen, ob es ausleihbar ist.\nWenn ja (Buch ausleihbar):\n\nSie gehen zur Ausleihtheke.\nSie leihen das Buch aus.\nSie verlassen die Bibliothek.\n\nWenn nein (Buch nicht ausleihbar):\n\nPrüfen, ob Sie noch ein anderes Buch suchen\nFalls ja:\n\nBuch suchen\n\nFalls nein:\n\nSie verlassen die Bibliothek.\n\n\n\n\nNeu\nNach der Ausleihe laufen vor dem Verlassen der Bibo zwei Prozesse parallel:\n\nBibliotheksdatenbank muss das ausgeliehene Buch registrieren\nArbeitskraft am Schalter stellt Ausleihbeleg aus."
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-parallel",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-parallel",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Bibliothek, parallel",
+    "text": "Lösung: Bibliothek, parallel"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-mit-swimlanes",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-bibliothek-mit-swimlanes",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Bibliothek mit Swimlanes",
+    "text": "Aufgabe: Bibliothek mit Swimlanes\n\nDiagramm wie bisher, mit parallelen Prozessen vor dem Verlassen der Bibliothek.\nNeu: Kennzeichnen Sie die Verantwortlichkeiten anhand von Swimlanes."
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-mit-swimlanes",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-bibliothek-mit-swimlanes",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Bibliothek mit Swimlanes",
+    "text": "Lösung: Bibliothek mit Swimlanes"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aktivitätsdiagramm-übersicht",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aktivitätsdiagramm-übersicht",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aktivitätsdiagramm: Übersicht",
+    "text": "Aktivitätsdiagramm: Übersicht"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramme",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramme",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Anwendungsfalldiagramme",
+    "text": "Anwendungsfalldiagramme\nWas ist ein Anwendungsfall?\n\nVerhalten, das ein modelliertes System nach außen anbietet\nPerspektive: Nutzer\n\n\nWas ist ein Anwendungsfall-Diagramm (Use-Case-Diagramm)?\n\nZeigt das externe Verhalten eines Systems aus Sicht der Nutzer\nBeantwortet die Frage:\nWas soll mein geplantes System eigentlich leisten?"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramm-yachthafen",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramm-yachthafen",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Anwendungsfalldiagramm: Yachthafen",
+    "text": "Anwendungsfalldiagramm: Yachthafen\n\n\nLiegeplatzverwaltung\n\nProjekt: Softwarekomponente für Vermietung von Liegeplätzen\nTeil des Yachthafen-Managements\n\nAnforderungen:\n\n\nKunden können Liegeplatz mieten und kündigen\nKunden können sich im Yachthafen mit Yacht an- und abmelden\nMitarbeiter können einzelne Liegeplätze für Wartung sperren\nNutzer des Programms können aktuelle Liegeplatzbelegung ansehen\n\n\nProjektteam:\n\nobjektorientierte Entwicklung\nUML zur Planung\n\n\n\n\n\n\n\n\n\n\n\nQuelle: PaterMcFly, Wikimedia Commons\n\nNächster Schritt in Softwareentwicklung?\nWie können sich Entwickler einen Überblick über alle Anwendungsfälle verschaffen?"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramm-yachthafen-1",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#anwendungsfalldiagramm-yachthafen-1",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Anwendungsfalldiagramm: Yachthafen",
+    "text": "Anwendungsfalldiagramm: Yachthafen"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-grundelemente",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-grundelemente",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Use-Case-Diagramm: Grundelemente",
+    "text": "Use-Case-Diagramm: Grundelemente"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-generalisierung",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-generalisierung",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Use-Case-Diagramm: Generalisierung",
+    "text": "Use-Case-Diagramm: Generalisierung\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneralisierung / Spezialisierung\n\nzeigt Beziehung zwischen allgemeinem und spezialisiertem Element\nkann sowohl zwischen Anwendungsfällen als auch zwischen Akteuren dargestellt werden\nPfeilrichtung beachten:  Vom speziellen zum generellen Element!"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-bibliothek",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-bibliothek",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Use-Case-D. Bibliothek",
+    "text": "Aufgabe: Use-Case-D. Bibliothek\n\nBibliothek möchte neues System einführen zur Automatisierung:\n\nAusleihe von Büchern\nBenutzerverwaltung\nBücherverwaltung\n\nAufgabe: Use-Case-Diagramm\nAnforderungen\n\nBenutzer kann Bücher ausleihen, Bücher zurückgeben und seinen Kontostand für ausgeliehene Bücher überprüfen\nPremium-Benutzer kann zusätzlich Bücher vorbestellen\nBibliothekar kann neue Benutzer registrieren, Bücher hinzufügen und Bücher entfernen\nChef-Bibliothekar kann zusätzlich Berichte über die Ausleihe erstellen und die Verwaltung der Bibliothek übernehmen"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-bibliothek",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-bibliothek",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Use-Case-D. Bibliothek",
+    "text": "Lösung: Use-Case-D. Bibliothek"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#use-case-d.-include",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#use-case-d.-include",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Use-Case-D.: <<include>>",
+    "text": "Use-Case-D.: &lt;&lt;include&gt;&gt;\n\n\nEin Anwendungsfall führt immer einen anderen mit aus\nPflicht-Einbindung\nincludierter Use Case ist wiederverwendbar\nPfeilrichtung: vom Basis-Use-Case zum inkludierten Use-Case"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-include",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-include",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Use-Case-D., include",
+    "text": "Aufgabe: Use-Case-D., include\nBibliothek, wie zuletzt\nNeue Beziehungen\n\nAusleihen von Büchern enthält immer Berechtigungs-Prüfung\nRegistrieren eines Benutzers: immer Bestätigungs-Email\n\nUse-Case-Diagramm zeichnen."
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-include",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-include",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Use-Case-D., include",
+    "text": "Lösung: Use-Case-D., include"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#use-case-d.-extend",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#use-case-d.-extend",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Use-Case-D.: <<extend>>",
+    "text": "Use-Case-D.: &lt;&lt;extend&gt;&gt;\n\n\n\n\n\n\n\n\n\n\n\nEin Anwendungsfall führt optional einen anderen mit aus\nErweiterung unter bestimmten Bedingungen\nAchtung: Pfeilrichtung vom erweiternden Anwendungsfall zum Basis-Use-Case\nAnders als bei &lt;&lt;include&gt;&gt;!!\nB ist Basis-Use-Case, A ist extended use case"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-extend",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#aufgabe-use-case-d.-extend",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Aufgabe: Use-Case-D., extend",
+    "text": "Aufgabe: Use-Case-D., extend\nBibliothek, wie zuletzt, mit include\nNeue Sonderfälle\n\nBücher zurückgeben: manchmal müssen Gebühren erhoben werden\n-&gt; erweitert den Use Case “Bücher zurückgeben”\nWenn Bibliothekar ein Buch hinzufügt:  manchmal müssen Buchinformationen validiert werden,  wenn sie unvollständig sind\n\nAufgabe: Use-Case-Diagramm mit zwei Conditions"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-extend",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#lösung-use-case-d.-extend",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Lösung: Use-Case-D., extend",
+    "text": "Lösung: Use-Case-D., extend"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-so-klappts",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#use-case-diagramm-so-klappts",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Use-Case-Diagramm: So klappt’s",
+    "text": "Use-Case-Diagramm: So klappt’s\n\n\nInclude (zwingende Folge) und extend (optionale Folge) gut unterscheiden\nPfeilrichtungen beachten:\n\nGeneralisierung / Spezialisierung: Vom speziellen zum generellen Element\nBeispiel: vom Premium-Benutzer zum Benutzer\n&lt;&lt;include&gt;&gt;: vom Basis-Use-Case zum inkludierten Use-Case\nBeispiel: von Bücher ausleihen zu Berechtigung prüfen\n&lt;&lt;extend&gt;&gt;: vom erweiternden Anwendungsfall zum Basis-Use-Case\nBeispiel: von Gebühren erheben zu Bücher zurückgeben\n\nUse-Case-Diagramm ist statisch\nNicht für Abläufe verwenden!"
+  },
+  {
+    "objectID": "UML_Aktivitätsd-Use-Case-D.html#vielen-dank",
+    "href": "UML_Aktivitätsd-Use-Case-D.html#vielen-dank",
+    "title": "UML:  Aktivitätsdiagramm Use-Case-Diagramm",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\n\n\n\n\n\n\n\n\n\n\nViel Erfolg mit UML!"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#theorie-und-praxis",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#theorie-und-praxis",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Theorie und Praxis …",
+    "text": "Theorie und Praxis …\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuelle: memecenter.com"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#der-oldie-das-wasserfall-modell",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#der-oldie-das-wasserfall-modell",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Der “Oldie”: Das Wasserfall-Modell",
+    "text": "Der “Oldie”: Das Wasserfall-Modell\n\nSkógafoss in Island\nQuelle: GettyImages / dertour.de"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#das-wasserfall-modell-grafisch",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#das-wasserfall-modell-grafisch",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Das Wasserfall-Modell grafisch",
+    "text": "Das Wasserfall-Modell grafisch\n\nQuelle: it-lernapp.de"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-phasenbeschreibung",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-phasenbeschreibung",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Wasserfall-Modell: Phasenbeschreibung",
+    "text": "Wasserfall-Modell: Phasenbeschreibung\n\n\n\n\n\nPhase\n\n\n\n\n1. Anforderungs-analyse\n\n\n2. Entwurf \n\n\n3. Implementierung\n\n\n4. Test\n\n\n5. Einführung \n\n\n6. Wartung \n\n\n\n\n\n\n\nBeschreibung\n\n\n\n\nAnforderungen sammeln\n\n\nSystemarchitektur festlegen\n\n\nProgrammierung\n\n\nQualitätssicherung\n\n\nDeployment beim Kunden\n\n\nFehlerbehebung, Update\n\n\n\n\n\n\n\nErgebnis\n\n\n\n\nLastenheft \n\n\nPflichtenheft, Architektur\n\n\nQuellcode\n\n\nTestberichte\n\n\nProduktivsystem \n\n\nPatches, neue Versionen\n\n\n\n\n\nUnterschied Lastenheft vs. Pflichtenheft: Lastenheft: WAS Auftraggeber braucht; Verfasser: Auftraggeber\nPflichtenheft: WIE Auftragnehmer die Anforderungen umsetzt; Verfasser: Auftragnehmer\nWann Benutzerbeteiligung? Nur am Anfang Weitere Änderungen danach -&gt; neuer Auftrag!"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-geschichte-einsatz",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-geschichte-einsatz",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Wasserfall-Modell: Geschichte, Einsatz",
+    "text": "Wasserfall-Modell: Geschichte, Einsatz\n\nBereits 1956 von Herbert D. Benington beschrieben\nVortrag 1983 neu aufgelegt\nBeschreibung 1970 von Winston W. Royce (ohne Bezeichnung Wasserfall)\nBegriff “Wasserfallmodell” später von Barry Boehm geprägt\n\n\nGeeignet für Projekte mit stabilen, klar definierten Anforderungen und regulatorischen Vorgaben\nBeispiele: Medizintechnik, Pharmazie, Maschinenbau"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-vorteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-vorteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Wasserfall-Modell: Vorteile",
+    "text": "Wasserfall-Modell: Vorteile\n\nPhasen klar abgegrenzt\nEinfache Möglichkeiten der Planung und Kontrolle\nKosten und Umfang klar abschätzbar\nACHTUNG: Wenn Anforderungen stabil bleiben!"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#gescheitertes-wasserfall-projekt-fbi",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#gescheitertes-wasserfall-projekt-fbi",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Gescheitertes Wasserfall-Projekt: FBI",
+    "text": "Gescheitertes Wasserfall-Projekt: FBI\n\n\n\nGeheimdienst FBI: United States Federal Bureau of Investigation\nProjekt: Virtual Case File (VCF), 2000 - 2005,\nsollte völlig veraltetes Fallmanagement-System ersetzen\nKosten: ca. 170 Millionen US-Dollar\nErgebnis: Projekt abgebrochen, nicht nutzbar\n\n\n\nGründe\n\nWiederholte Veränderungen und Erweiterungen der Anforderungen\nVersuch einer plötzlichen, vollständigen Systemumschaltung ohne Übergangsphase\nZu starres Projektmanagement; mangelhafte Kommunikation\nKlassisches Wasserfall-Problem!"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-nachteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-nachteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Wasserfall-Modell: Nachteile",
+    "text": "Wasserfall-Modell: Nachteile\n\nKlare Abgrenzung der Phasen in komplexen Projekten oft unrealistisch\nFehler werden oft erst am Ende erkannt\nGeringe Flexibilität durch strikten Ablauf"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-frage",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#wasserfall-modell-frage",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Wasserfall-Modell: Frage",
+    "text": "Wasserfall-Modell: Frage\n\nWas sind die Phasen des klassischen Wasserfallmodells in der Softwareentwicklung?\nA Sprint Planning, Daily Standup, Sprint Review und Retrospektive - iterativ in Zyklen\nB Inception, Elaboration, Construction, Transition - inkrementell mit Meilensteinen\nC Analyse, Design, Implementierung, Test, Wartung - sequentiell ohne Rücksprünge\nD Idee, Prototyp, Markteinführung und Skalierung - phasenweise mit Feedback-Schleifen\n\nRichtig ist C.\n\n\nWasserfallmodell: Lineare Phasen; jede abgeschlossen, bevor nächste beginnt.\nVorteile: Klare Struktur, Dokumentation.\nNachteile: Unflexibel bei Änderungen, Fehler spät erkannt. Heute oft durch agile Methoden ersetzt."
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#das-v-modell",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#das-v-modell",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Das V-Modell",
+    "text": "Das V-Modell\n\nQuelle: alphaprogression.com"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#das-v-modell-grafisch",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#das-v-modell-grafisch",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Das V-Modell grafisch",
+    "text": "Das V-Modell grafisch\n\nDas V-Modell erweitert das Wasserfall-Modell um eine Teststrategie:\nJeder Entwicklungsphase steht eine Testphase gegenüber.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTestphase:\nValidierung Verifikation\n\n\nQuelle: iapm.net"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-geschichte-einsatz",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-geschichte-einsatz",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "V-Modell: Geschichte, Einsatz",
+    "text": "V-Modell: Geschichte, Einsatz\n\nVorgeschlagen von Barry Boehm 1979\nErweiterung des Wasserfall-Modells\nVerwendung auch bei der Entwicklung  mechatronischer Systeme\n\n\nGeeignet für sicherheitskritische Systeme mit klaren, stabilen Anforderungen, hohem Dokumentationsbedarf und verpflichtenden Prüf- und Abnahmeprozessen\nBeispiele: Zugleitsystem, medizinisches Diagnosesystem"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-vorteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-vorteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "V-Modell: Vorteile",
+    "text": "V-Modell: Vorteile\n\nKlare Struktur, definierter Ablauf\nKlare Zuordnung von Anforderungen und Tests\nGute Fehlererkennung durch Testphasen\nGute Nachvollziehbarkeit und Dokumentation"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#problematisches-v-modell-bundeswehr",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#problematisches-v-modell-bundeswehr",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Problematisches V-Modell: Bundeswehr",
+    "text": "Problematisches V-Modell: Bundeswehr\n\n\nHERKULES-Projekt zur Standardisierung und Modernisierung der IT\nLaufzeit 2006 - 2016; Kosten: über 7 Milliarden Euro\nErgebnis: Systeme z. T. nicht nutzbar; z. T. technisch korrekt, aber sinnlos; z. T. vor der Abnahme schon veraltet\nProjekt umgebaut, neu verhandelt; als “teilweise erfolgreich” deklariert\n\n\nGründe\n\nStarre Anforderungen: tausende Seiten, während sich IT-Landschaft schnell veränderte (Smartphones, Cloud, Cyber-Bedrohungen)\nSpäte Tests; Probleme erst am Ende sichtbar\nDokumentationslast: “Papier statt Produkt”\nGeringe Flexibilität; V-Modell schwierig bei riesigen Projekten\n\n\n\n\nVeränderte IT-Landschaft: Sicherheitsstandards, Hardware-Generationen, Kommunikationswege"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-nachteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-nachteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "V-Modell: Nachteile",
+    "text": "V-Modell: Nachteile\n\nHoher Aufwand für Dokumentation\nHohe Abhängigkeit von Testaktivitäten\nGeringe Flexibilität durch fest vorgegebene Phasen\nAnnahme: Alle Anforderungen von Anfang an vollständig und korrekt erfasst\nIn der Praxis oft nicht der Fall!\nMehr Flexibilität durch wiederholte Durchläufe\n(“Mini-Vs”)? Enorm aufwändig"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-frage",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-frage",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "V-Modell: Frage",
+    "text": "V-Modell: Frage\n\nIm V-Modell steht jeder Entwicklungsphase auf der linken Seite eine entsprechende Testphase auf der rechten Seite gegenüber. Welche Testphase korrespondiert mit der Phase Architektur?\nA Abnahmetest\nB Komponententest\nC Integrationstest\nD Systemtest\n\nRichtig ist C.\nDer Architektur ist der Integrationstest zugeordnet.\nArbeiten die Module zusammen?\nFunktioniert der Datenaustausch zwischen den Komponenten?"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#verifikation-vs.-validierung",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#verifikation-vs.-validierung",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Verifikation vs. Validierung",
+    "text": "Verifikation vs. Validierung\n\n\n\n\n\nBegriff\n\n\n\n\nVerifikation  \n\n\nValidierung  \n\n\n\n\n\n\n\nFrage\n\n\n\n\nBauen wir das Produkt richtig?\n\n\nBauen wir das richtige Produkt?\n\n\n\n\n\n\n\nBeispiel\n\n\n\n\nCode-Review, Unit-Test\n\n\nAbnahmetest mit Kunde"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#das-spiral-modell",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#das-spiral-modell",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Das Spiral-Modell",
+    "text": "Das Spiral-Modell\n\nRekonstruierter Riesen-Ammonit\nQuelle: bio-schmidhol.ch"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-grundidee",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-grundidee",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Grundidee",
+    "text": "Spiral-Modell: Grundidee\n1986 von Barry Boehm beschrieben\nIterativ-inkrementelles Modell\n\nIterativ: Produkt wird in mehreren Durchläufen verbessert\nInkrementell: Produkt wird in Teilen (=Inkrementen) geliefert"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-phasenbeschreibung",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-phasenbeschreibung",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Phasenbeschreibung",
+    "text": "Spiral-Modell: Phasenbeschreibung\nKombination aus iterativem Vorgehen und Risiko-Analyse\n\n\n\n\n\nSchritt\n\n\n\n\n1. Ziele festlegen  \n\n\n2. Risiken analysieren  \n\n\n3. Entwicklung  \n\n\n4. Bewertung\n\n\n\n\n\n\n\nBeschreibung\n\n\n\n\nWas soll diese Iteration erreichen?\n\n\nWelche Risiken gibt es? Prototypen bauen\n\n\nImplementierung dieser Iteration inkl. Tests\n\n\nReview mit Stakeholdern  Planung nächste Iteration"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-grafisch",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-grafisch",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell grafisch",
+    "text": "Spiral-Modell grafisch\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuelle: simpleclub.com / eigene Bearbeitung"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-vorteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-vorteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Vorteile",
+    "text": "Spiral-Modell: Vorteile\n\n\nGute Kontrolle über Kosten, Ressourcen, Qualität,  v. a. durch zentralen Stellenwert der Risikoanalyse\nGute Abstimmung zwischen Design und technischen Anforderungen\nFrühe, fortlaufende Einbindung von Auftraggebern und Anwendern\nGeeignet für neuartige technische Umgebungen,  wenn Erfahrungswerte fehlen;  Projekte mit hohen technischen Risiken; unklare Anforderungen; wenn Prototypen benötigt werden\nBeispiele: Autonomes Fahrassistenzsystem; Satelliten-Kommunikationssoftware"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#gescheitertes-softwareprojekt-us-luftfahrtbehörde",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#gescheitertes-softwareprojekt-us-luftfahrtbehörde",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Gescheitertes Softwareprojekt: US-Luftfahrtbehörde",
+    "text": "Gescheitertes Softwareprojekt: US-Luftfahrtbehörde\n\n\nUS-Luftfahrtbehörde FAA (Federal Aviation Administration) wollte  AAS = Advanced Automation System entwickeln\nLaufzeit 1981 - 1994; Kosten &gt; 2,6 Milliarden US-Dollar\nErgebnis: Abbruch; stattdessen inkrementell gesteuerte Teilprojekte\n\n\nGründe\n\nNicht als Spiralmodell konzipiert, aber z. T. so gehandhabt\nStändige Änderungen an Anforderungen: Endlosschleife (Loop of Death)\nMeilensteine ignoriert, Tests aufgeschoben\nUnrealistische Verfügbarkeit (&lt; 3s Ausfallzeit/Jahr); Risikomanagement hätte das früh entschärfen müssen\n\n\n\n\nMeilensteine ignoriert; besser wäre: vertraglich vereinbarte Zwischenstände fixieren Tests aufgeschoben: z. B. viel zu später Belastungstest: zu wenige Displays gleichzeitig stabil betreibbar"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-nachteile",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-nachteile",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Nachteile",
+    "text": "Spiral-Modell: Nachteile\n\nHoher Management-Aufwand\nViele Entscheidungen erforderlich -&gt; Verzögerungen\nSetzt Wissen über Risikoanalyse und Risikomanagement voraus;\nin der Praxis oft begrenzt!\nUngeeignet für kleinere Projekte mit geringem Risiko"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-problematische-darstellung-1",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-problematische-darstellung-1",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Problematische Darstellung (1)",
+    "text": "Spiral-Modell: Problematische Darstellung (1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWo beginnt die Spirale?\nWelcher Schritt ist der zweite?\nWo endet die Spirale?"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-problematische-darstellung-2",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-problematische-darstellung-2",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell: Problematische Darstellung (2)",
+    "text": "Spiral-Modell: Problematische Darstellung (2)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn welcher Reihenfolge sind die Quadranten angeordnet?\nWas ist die erste, zweite und dritte Phase zu Beginn (innen)?\nIn welcher Richtung verläuft die Spirale (-&gt; Uhr)?"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#vergleich-der-drei-modelle",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#vergleich-der-drei-modelle",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Vergleich der drei Modelle",
+    "text": "Vergleich der drei Modelle\n\n\n\n\n\n\nModell\n\n\n\n\nWasserfall\n\n\nV-Modell  \n\n\nSpiralmodell  \n\n\n\n\n\n\n\nGeeignet für?\n\n\n\n\nStabile Anforderungen\n\n\nSicherheitskritische Systeme\n\n\nGroße, risikoreiche Projekte\n\n\n\n\n\n\n\nFlexibilität\n\n\n\n\nGering\n\n\nGering  \n\n\nMittel\n\n\n\n\n\n\n\nRisiko\n\n\n\n\nHoch bei Änderungen\n\n\nMittel (frühe Tests)  \n\n\nGering (Risikoanalyse)"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#gruppenarbeit",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#gruppenarbeit",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Gruppenarbeit",
+    "text": "Gruppenarbeit\nVergleichen Sie die Vorgehensmodelle  Wasserfallmodell, V-Modell, Spiralmodell.\nNennen Sie für jedes Modell:\n\n2 Vorteile\n2 Nachteile und\nein geeignetes Projektszenario."
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-detaillierter",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#v-modell-detaillierter",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "V-Modell, detaillierter",
+    "text": "V-Modell, detaillierter\n\n\n\n\n\n\n\n\n\n\n\n\nPlanung und Spezifikation Implementierung Verifizierung, Validierung\n\nQuelle: johner-institut.de"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-detaillierter",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#spiral-modell-detaillierter",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Spiral-Modell, detaillierter",
+    "text": "Spiral-Modell, detaillierter\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuelle: scnsoft.de"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#ausblick",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#ausblick",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Ausblick",
+    "text": "Ausblick\nOft mehr Flexibilität benötigt: Agile Methoden\n\nScrum\nKanban\nExtreme Programming (XP)\n\nIterativ, inkrementell, in kurzen Zyklen\nViel Eigenverantwortung für die Teams"
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#frage-zu-wasserfallmodell-1",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#frage-zu-wasserfallmodell-1",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Frage zu Wasserfallmodell (1)",
+    "text": "Frage zu Wasserfallmodell (1)\n\nIn welcher Situation ist das Wasserfallmodell gegenüber agilem Vorgehen besonders geeignet?\nA Bei innovativen Projekten mit häufig wechselnden Anforderungen und hoher Unsicherheit\nB Bei Projekten mit stabilen, klar definierten Anforderungen und regulatorischen Vorgaben\nC Bei Start-up-Projekten, die keine feste Deadline und kein fixes Budget haben\nD Bei Projekten mit hoher Unsicherheit und noch nicht klar definierten Zielen\n\nRichtig ist B.\nDas Wasserfallmodell eignet sich besonders für Projekte mit stabilen Anforderungen, z. B. in regulierten Branchen (Medizintechnik, Luftfahrt). Dort müssen alle Anforderungen vorab dokumentiert und genehmigt werden. Bei häufig wechselnden Anforderungen sind agile Methoden besser geeignet."
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#frage-zu-wasserfallmodell-2",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#frage-zu-wasserfallmodell-2",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Frage zu Wasserfallmodell (2)",
+    "text": "Frage zu Wasserfallmodell (2)\n\nWelcher grundlegende Unterschied besteht zwischen dem Wasserfallmodell und agilen Vorgehensweisen?\nA Agile Methoden erfordern keinerlei Dokumentation, das Wasserfallmodell hingegen schon\nB Das Wasserfallmodell ist grundsätzlich schneller als agile Methoden\nC Das Wasserfallmodell wird nur für kleine Projekte eingesetzt, agile nur für große\nD Das Wasserfallmodell durchläuft die Phasen sequenziell und linear, während agile Methoden iterativ und inkrementell in kurzen Zyklen arbeiten\n\nRichtig ist D. Hohe Prüfungswahrscheinlichkeit!\nWasserfallmodell: Phasen (Anforderungen, Entwurf, Implementierung, Test, Betrieb) werden strikt nacheinander durchlaufen. Rückschritte aufwändig. Agile Methoden arbeiten in kurzen Iterationen (z. B. Sprints), liefern regelmäßig lauffähige Software-Inkremente. Dadurch frühes Feedback und flexible Anpassungen an geänderte Anforderungen."
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#frage-v-modell-vs.-wasserfallmodell",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#frage-v-modell-vs.-wasserfallmodell",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Frage V-Modell vs. Wasserfallmodell",
+    "text": "Frage V-Modell vs. Wasserfallmodell\nWorin liegt der Vorteil des V-Modells gegenüber dem Wasserfallmodell?\n\nZu jeder Entwicklungsphase wird gleichzeitig der passende Testfall definiert — Fehler werden systematischer und früher erkannt.\nEs ist in Behörden und regulierten Branchen verbreitet."
+  },
+  {
+    "objectID": "Softwareentwicklung_Vorgehensmodelle.html#vielen-dank",
+    "href": "Softwareentwicklung_Vorgehensmodelle.html#vielen-dank",
+    "title": "Vorgehensmodelle in der Softwareentwicklung",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\n\n\n\n\n\n\n\n\n\n\nViel Erfolg bei allem!"
+  }
+]

@@ -1,1 +1,1 @@
-Sitemap: index.html/sitemap.xml
+Sitemap: index.qmd/sitemap.xml

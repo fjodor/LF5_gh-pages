@@ -9,6 +9,7 @@ format:
     theme: simple
     logo: libs/_Images/logo-AFBB.svg
     css: libs/styles.css
+    embed-resources: true
     # title-slide: false   # doesn't exist!
     # theme: dracula
     # theme: blood

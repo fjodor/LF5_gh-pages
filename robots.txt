@@ -1,1 +1,1 @@
-Sitemap: https://fjodor.github.io/LF5_gh-pages/sitemap.xml
+Sitemap: index.html/sitemap.xml

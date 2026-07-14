@@ -9,8 +9,8 @@ website:
         text: Home
       - href: Softwareentwicklung_Vorgehensmodelle.qmd
         text: Vorgehensmodelle in der Softwareentwicklung
-      - href: UML_Aktivitätsd-Use-Case-D.qmd.qmd
-        text: UML: Aktivitätsdiagramm, Anwendungsfalldiagramm (= Use Case-Diagramm)
+      - href: UML_Aktivitätsd-Use-Case-D.qmd
+        text: UML Aktivitätsdiagramm, Anwendungsfalldiagramm (= Use Case-Diagramm)
 
 format:
   html:

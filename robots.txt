@@ -1,1 +1,1 @@
-Sitemap: index.qmd/sitemap.xml
+Sitemap: https://fjodor.github.io/LF5_gh-pages/sitemap.xml

@@ -280,18 +280,11 @@
     ]
   },
   {
-    "objectID": "Readme.html",
-    "href": "Readme.html",
-    "title": "LF5",
-    "section": "",
-    "text": "Willkommen!\nHier sammle ich Unterlagen zu LF5. Zum Lesen bitte hier klicken (führt zu GitHub Pages):\nLF5 Unterlagen"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LF5",
     "section": "",
-    "text": "Willkommen!\nHier sammle ich Unterlagen zu LF5.",
+    "text": "Willkommen!\nHier sammle ich Unterlagen zu LF5.\nDer Quellcode liegt hier: https://github.com/fjodor/LF5_gh-pages",
     "crumbs": [
       "Home"
     ]

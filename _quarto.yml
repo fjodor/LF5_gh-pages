@@ -15,8 +15,10 @@ website:
         text: UML Aktivitätsdiagramm, Anwendungsfalldiagramm (= Use Case-Diagramm)
 
 format:
-  html:
-    theme: simple
+  revealjs:
+    include-after-body: libs/backlink.html
+    css: libs/styles.css
+    logo: libs/_Images/logo-AFBB.svg
 
 publish:
   gh-pages: true

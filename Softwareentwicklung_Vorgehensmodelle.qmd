@@ -1,14 +1,14 @@
 ---
 title: "Vorgehensmodelle in der <br>Softwareentwicklung"
-author: "H. Riepl"
 title-slide-attributes:
   data-background-color: "#D7E6F4"
 subtitle: "Wasserfallmodell, V-Modell, Spiralmodell"
 format:
   revealjs:
     theme: simple
-    logo: libs/_Images/logo-AFBB.svg
-    css: libs/styles.css
+    # include-after-body: libs/backlink.html     # global gesetzt in _quarto.yml
+    # logo: libs/_Images/logo-AFBB.svg
+    # css: libs/styles.css
     embed-resources: true
     # title-slide: false   # doesn't exist!
     # theme: dracula
